@@ -1,0 +1,9 @@
+[submodule "victoria_dotfiles"]
+	path = victoria_dotfiles
+	url = https://github.com/git-jls/victoria_dotfiles.git
+[submodule "victoria_scripts"]
+	path = victoria_scripts
+	url = https://github.com/git-jls/victoria_scripts.git
+[submodule "victoria_builds"]
+	path = victoria_builds
+	url = https://github.com/git-jls/victoria_builds.git
