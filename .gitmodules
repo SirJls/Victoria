@@ -7,3 +7,6 @@
 [submodule "victoria_builds"]
 	path = victoria_builds
   url = git@github.com:SirJls/victoria_builds.git
+[submodule "victoria_udev"]
+	path = victoria_udev
+	url = git@github.com:SirJls/victoria_udev.git
